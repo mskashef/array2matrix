@@ -7,7 +7,7 @@ const array2matrix = function (array, rowsLength) {
   let rowIdx = -1
   const matrix = []
   for (let i = 0; i < array.length; i++) {
-    if (i % rowsCount === 0) {
+    if (i % rowsLength === 0) {
       rowIdx++
       matrix.push([])
     }
