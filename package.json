@@ -1,6 +1,6 @@
 {
   "name": "@mskashef/array2matrix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Array to matrix converter.",
   "main": "index.js",
   "repository": {
