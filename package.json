@@ -1,0 +1,26 @@
+{
+  "name": "@mskashef/array2matrix",
+  "version": "1.0.0",
+  "description": "Array to matrix converter.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mskashef/array2matrix"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "array",
+    "matrix",
+    "js",
+    "javascript",
+    "convert",
+    "divide"
+  ],
+  "author": "mskashef",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
